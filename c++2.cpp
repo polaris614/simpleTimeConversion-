@@ -7,8 +7,6 @@
 //============================================================================
 
 #include <iostream>
-#include "Person.h"
-#include <sstream>
 using namespace std;
 
 void displayMenu() {
